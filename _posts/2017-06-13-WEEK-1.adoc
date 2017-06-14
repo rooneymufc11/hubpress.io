@@ -1,0 +1,20 @@
+// = Your Blog title
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-alt-title: My English Title:
+:hp-tags: HubPress, Blog, Web development, developer, coder, technology, fun, @that_soccering_coder
+
+= WEEK 1:
+
+So I was wondering since quite a while, about what my first blog ought to be about. That wound up being a 2-month wait in light of the fact that I needed it to be great.
+
+Hence, in this blog, I will discuss myself, my experience, my story - quickly. 
+
+I am Manasi Pradhan, recently graduated from the University of Florida CISE department after completing my Masters in Computer Science. I am a web developer and believe in simple and clean code. "Coding is simple but creating simple code is very tough!"
+
+I was always a curious child and interested in tinkering with technology but the innocence of a child was lost in the way. Before long, I began feeling pressurized by the need to know everything going on in the tech field. So as opposed to having fun with technology and being naturally inquisitive I wound up being obsessed in a negative way thus taking away the fun!
+
+Why am I writing about this? Because sometimes in this big beautiful world, we have a tendency to lose our way. We have a tendency to be overwhelmed, we are expected to have experience in technologies that have quite recently come out and if we don't keep up, we risk being obsolete. It is essential to have an element of fun or satisfaction when you work. Your work ought to make you energized, provoke you, make you look forward to doing it. On the off chance that it is stressing you out, at that point, something has turned out badly en route!! 
+
+Be as eager as a kid, don't be reluctant to commit errors and continue coding!!
