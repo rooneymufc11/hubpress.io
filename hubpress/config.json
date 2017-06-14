@@ -2,9 +2,38 @@
   "meta": {
     "username": "rooneymufc11",
     "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
+    "branch": "gh-pages",
+    "cname": ""
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://rooneymufc11.github.io/hubpress.io",
+    "hubpress": "https://rooneymufc11.github.io/hubpress.io",
+    "theme": "//rooneymufc11.github.io/hubpress.io/themes/casper",
+    "images": "https://rooneymufc11.github.io/hubpress.io/images"
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "manasipradhan@ufl.edu",
+    "github": "http://github.com/rooneymufc11",
+    "twitter": "http://twitter.com/rooneymufc11",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "http://www.instagram.com/that_soccering_coder",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "http://linkedin.com/in/pradhanmanasi",
+    "stackoverflow": ""
   }
 }
